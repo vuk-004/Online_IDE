@@ -1,4 +1,4 @@
-# CodeCraft - Online Compiler
+# Online Compiler
 
 A web-based code editor and compiler that supports multiple programming languages including C++, Java, Python, and C. Users can write, compile, and execute code directly in the browser with user authentication and code saving capabilities.
 
